@@ -1,0 +1,7 @@
+et-xmlfile==1.0.1
+jdcal==1.4
+lxml==4.2.5
+openpyxl==2.5.12
+Pillow==5.3.0
+scons==3.0.1
+virtualenv==16.0.0
